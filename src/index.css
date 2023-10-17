@@ -1,0 +1,36 @@
+html {
+
+    font-size: 62.5%;
+
+}
+body {
+    margin: 2rem;
+}
+
+h1 {
+    font-size: 3.2rem;
+    color: green;
+    font-style: italic;
+}
+
+li {
+    color: grey;
+    padding: 2px;
+    font-size: 15px;
+  }
+
+  .note {
+    color: grey;
+    padding-top: 5px;
+    font-size: 1.5rem;
+  }
+
+  .error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
